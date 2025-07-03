@@ -112,8 +112,5 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ```
 
----
 
-Quer que eu gere também um modelo de arquivo `LICENSE` ou um guia para estruturar esse projeto em Maven/Gradle?
-```
 
